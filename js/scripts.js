@@ -11,7 +11,9 @@ function getTriangleArea(a,h) {
 	}
 }
 
-/*
-To call a function, write in console
-getTriangleArea(a,h)
-*/
+/*Call a function. Example:*/
+
+var a = 0;
+var h = 2;
+
+getTriangleArea(a,h);
