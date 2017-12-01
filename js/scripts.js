@@ -16,13 +16,13 @@ function getTriangleArea(a, h) {
 var a = 0;
 var h = 2;
 
-getTriangleArea(a,h);
+getTriangleArea(a, h);
 
-var triangle1Area = getTriangleArea(3,6);
+var triangle1Area = getTriangleArea(3, 6);
 //console.log(triangle1Area);
 
-var triangle2Area = getTriangleArea(4,3);
+var triangle2Area = getTriangleArea(4, 3);
 //console.log(triangle2Area);
 
-var triangle3Area = getTriangleArea(17,8);
+var triangle3Area = getTriangleArea(17, 8);
 //console.log(triangle3Area);
